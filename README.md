@@ -11,6 +11,7 @@ npx expo install @react-native-async-storage/async-storage
 npm install @react-native-async-storage/async-storage
 npm install @expo/vector-icons
 npm install @react-native-datetimepicker/datetimepicker
+npm install react-native-chart-kit
 ```
 
 ### シミュレート開始コマンド
@@ -18,3 +19,5 @@ npm install @react-native-datetimepicker/datetimepicker
 ```
 npx expo start
 ```
+
+リポジトリの公開設定の変更に伴いフォーク関係がなくなったので更新停止
